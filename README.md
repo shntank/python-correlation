@@ -1,2 +1,2 @@
 # python-correlation
-a simple project i started. it looks for correlations between different movie related KPI's. 
+A simple project I started. It looks for correlations between different movie related KPI's. 
